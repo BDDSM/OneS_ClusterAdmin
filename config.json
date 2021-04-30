@@ -9,7 +9,7 @@
             "UseLocalRas": false,
             "LocalRasPort": 0,
             "LocalRasV8version": "",
-            "Autoconnect": true
+            "Autoconnect": false
         },
         "Desktop:2540": {
             "ManagerHost": "Desktop",
@@ -20,8 +20,8 @@
             "UseLocalRas": false,
             "LocalRasPort": 12545,
             "LocalRasV8version": "",
-            "AgentUser": "Admin",
-            "AgentPassword": "123",
+            "AgentUser": "SAdmin",
+            "AgentPassword": "321",
             "Autoconnect": true
         },
         "moby:1540": {
