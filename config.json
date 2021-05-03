@@ -9,7 +9,8 @@
             "UseLocalRas": false,
             "LocalRasPort": 0,
             "LocalRasV8version": "",
-            "Autoconnect": false
+            "Autoconnect": false,
+            "ClustersCredentials": {}
         },
         "Desktop:2540": {
             "ManagerHost": "Desktop",
@@ -22,7 +23,13 @@
             "LocalRasV8version": "",
             "AgentUser": "SAdmin",
             "AgentPassword": "3211",
-            "Autoconnect": true
+            "Autoconnect": true,
+            "ClustersCredentials": {
+                "5bf6565d-334e-4a7a-a807-1c18036d9eb9": [
+                    "CAdmin",
+                    "123"
+                ]
+            }
         },
         "moby:1540": {
             "ManagerHost": "localhost",
@@ -33,7 +40,8 @@
             "UseLocalRas": false,
             "LocalRasPort": 0,
             "LocalRasV8version": "",
-            "Autoconnect": false
+            "Autoconnect": false,
+            "ClustersCredentials": {}
         },
         "moby:2540": {
             "ManagerHost": "moby",
@@ -44,7 +52,8 @@
             "UseLocalRas": false,
             "LocalRasPort": 0,
             "LocalRasV8version": "",
-            "Autoconnect": false
+            "Autoconnect": false,
+            "ClustersCredentials": {}
         }
     }
 }
